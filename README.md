@@ -30,7 +30,7 @@
 | LinkedIn | https://linkedin.com/in/pilotbrooks |
 
 # Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="92911053-8410-404e-ab8c-3a533077684f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![AWS Cloud Practitioner](https://www.credly.com/badges/92911053-8410-404e-ab8c-3a533077684f/public_url)
 
 # Current Projects
 - 🛠️ Project 1 - Helicopter Tour Company - Financial Tracking
