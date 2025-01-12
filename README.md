@@ -1,16 +1,40 @@
-## Hi there 👋
+🚁 EMS Helicopter Pilot turned Cloud Engineer | AWS Certified Cloud Practitioner
 
-<!--
-**l3xcaliburr/l3xcaliburr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Head Coach @ Cloud Engineer Academy
+- Guiding the next generation of cloud professionals
+- Bridging the gap between theory and practical implementation
 
-Here are some ideas to get you started:
+💻 Current Focus:
+- Building scalable cloud solutions on AWS
+- Contributing to open-source cloud infrastructure projects
+- Working towards AWS Solutions Architect Professional certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Experience:
+- Production-level AWS deployments for enterprise clients
+- Expertise in emergency operations and critical decision-making
+- Strong background in aviation systems and technical documentation
+
+🤝 Open to collaborate on:
+- Cloud infrastructure projects
+- DevOps automation
+- Disaster recovery solutions
+- High-availability architectures
+
+⚡ Fun fact: My aviation background gives me a unique perspective on system reliability and redundancy in cloud architectures!
+
+# Links and Social Media
+| Service | URL |
+|---------|-----|
+| GitHub | https://github.com/l3xcaliburr |
+| Medium | https://medium.com/@rotordev |
+| LinkedIn | https://linkedin.com/in/pilotbrooks |
+
+# Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="92911053-8410-404e-ab8c-3a533077684f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+# Current Projects
+- 🛠️ Project 1 - Helicopter Tour Company - Financial Tracking
+- 🚀 Project 2 - Video Resolution Resizing Application
+
+# How to reach me
+📫 alex@rotordev.com
