@@ -48,6 +48,7 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
 # Current Projects
 - 🛠️ Project 1 - Helicopter Tour Company - Financial Tracking
 - 🚀 Project 2 - Video Resolution Resizing Application
+- 🚁 Project 3 - Helicopter Arrival and Departure Tracker
 
 # How to reach me
 📫 alex@rotordev.com
