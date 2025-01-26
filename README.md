@@ -1,4 +1,8 @@
+# Alex Brooks
 🚁 EMS Helicopter Pilot turned Cloud Engineer | AWS Certified Cloud Practitioner
+
+# About Me
+With a decade of experience as an EMS helicopter pilot, I bring a unique perspective to cloud computing - where precision, reliability, and quick decision-making are paramount. Currently leading as a Head Coach at Cloud Engineer Academy while pursuing advanced AWS certifications.
 
 🎓 Head Coach @ Cloud Engineer Academy
 - Guiding the next generation of cloud professionals
@@ -29,8 +33,10 @@
 | Medium | https://medium.com/@rotordev |
 | LinkedIn | https://linkedin.com/in/pilotbrooks |
 
-# Certifications
-![AWS Cloud Practitioner](https://www.credly.com/badges/92911053-8410-404e-ab8c-3a533077684f/public_url)
+# Certifications & Skills
+<a href="https://www.credly.com/badges/92911053-8410-404e-ab8c-3a533077684f/public_url">
+  <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner">
+</a>
 
 # Current Projects
 - 🛠️ Project 1 - Helicopter Tour Company - Financial Tracking
