@@ -38,6 +38,12 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
   <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner">
 </a>
 
+<a href="https://www.cloudengineeracademy.io/">
+  <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academy-badge.png" width="150" alt="Cloud Engineer Academy Graduate">
+</a>
+
+
+
 # Current Projects
 - 🛠️ Project 1 - Helicopter Tour Company - Financial Tracking
 - 🚀 Project 2 - Video Resolution Resizing Application
