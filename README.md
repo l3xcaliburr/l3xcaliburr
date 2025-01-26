@@ -39,7 +39,7 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
     <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/aws-certified-cloud-practitioner.png" width="150" height="150" alt="AWS Certified Cloud Practitioner">
   </a>
   <a href="https://www.cloudengineeracademy.io/">
-    <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academybadge.png" width="150" height="150" alt="Cloud Engineer Academy Graduate">
+    <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academy-badge.png" width="150" height="150" alt="Cloud Engineer Academy Graduate">
   </a>
 </div>
 
