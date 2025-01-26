@@ -39,7 +39,7 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
 </a>
 
 <a href="https://www.cloudengineeracademy.io/">
-  <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academy-badge.png" width="150" alt="Cloud Engineer Academy Graduate">
+  <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academy-badge.png" width="300" alt="Cloud Engineer Academy Graduate">
 </a>
 
 
