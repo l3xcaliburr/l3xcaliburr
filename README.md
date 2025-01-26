@@ -34,13 +34,14 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
 | LinkedIn | https://linkedin.com/in/pilotbrooks |
 
 # Certifications & Skills
-<a href="https://www.credly.com/badges/92911053-8410-404e-ab8c-3a533077684f/public_url">
-  <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner">
-</a>
-
-<a href="https://www.cloudengineeracademy.io/">
-  <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academy-badge.png" width="200" alt="Cloud Engineer Academy Graduate">
-</a>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://www.credly.com/badges/92911053-8410-404e-ab8c-3a533077684f/public_url">
+    <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/aws-certified-cloud-practitioner.png" width="150" height="150" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="https://www.cloudengineeracademy.io/">
+    <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academy-badge.png" width="150" height="150" alt="Cloud Engineer Academy Graduate">
+  </a>
+</div>
 
 
 
