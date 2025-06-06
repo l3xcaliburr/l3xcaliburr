@@ -41,6 +41,9 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
   <a href="https://www.credly.com/badges/f009c9b8-26c7-4bb9-8980-0630385d0588/public_url">
     <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/aws-certified-ai-practitioner-early-adopter.png" width="150" height="150" alt="AWS Certified AI Practitioner">
   </a>
+    <a href="https://www.credly.com/badges/71b6f455-c361-43b5-82ad-7bb786afcfb5/public_url">
+    <img src="aws-certified-solutions-architect-associate" width="150" height="150" alt="AWS Certified Solutions Architect Associate">
+  </a>
   <a href="https://www.cloudengineeracademy.io/">
     <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academy-badge.png" width="150" height="150" alt="Cloud Engineer Academy Graduate">
   </a>
