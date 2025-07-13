@@ -1,36 +1,41 @@
 # Alex Brooks
+🚁 EMS Helicopter Pilot turned Cloud Engineer | 3x AWS Certified Professional
 
-🚁 EMS Helicopter Pilot turned Cloud Engineer | AWS Certified Cloud Practitioner
+## About Me
+With a decade of experience as an EMS helicopter pilot, I bring a unique perspective to cloud computing - where precision, reliability, and quick decision-making are paramount. Currently training 300+ cloud engineering students globally while actively applying cloud solutions in real-world scenarios.
 
-# About Me
-
-With a decade of experience as an EMS helicopter pilot, I bring a unique perspective to cloud computing - where precision, reliability, and quick decision-making are paramount. Currently leading as a Head Coach at Cloud Engineer Academy while pursuing advanced AWS certifications.
-
-🎓 Head Coach @ Cloud Engineer Academy
-
-- Guiding the next generation of cloud professionals
+## 🎓 Head Coach @ Cloud Engineer Academy
+- Training the next generation of cloud professionals worldwide
 - Bridging the gap between theory and practical implementation
+- Proven track record of successful student outcomes
 
-💻 Current Focus:
+## 💻 Current Focus:
+- Building scalable cloud solutions with 99.9% uptime requirements
+- Infrastructure automation using Terraform, Ansible, and CI/CD pipelines
+- Container orchestration with Docker, ECS, and Fargate
+- Recently migrated legacy infrastructure to AWS Amplify (91% cost reduction)
 
-- Building scalable cloud solutions on AWS
-- Contributing to open-source cloud infrastructure projects
-- Working towards AWS Solutions Architect Professional certification
+## 🛠️ Technical Expertise:
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, VPC, IAM)
+- **Infrastructure as Code:** Terraform, CloudFormation
+- **CI/CD:** Jenkins, GitHub Actions
+- **Containers:** Docker, ECS, Fargate
+- **Monitoring:** CloudWatch, System Manager
+- **Security:** Network security, IAM policies, compliance frameworks
 
-🛠️ Experience:
+## 🏆 Certifications:
+- AWS Solutions Architect Associate
+- AWS SysOps Administrator Associate  
+- AWS Cloud Practitioner
 
-- Production-level AWS deployments for business clients
-- Expertise in emergency operations and critical decision-making
-- Strong background in aviation systems and technical documentation
-
-🤝 Open to collaborate on:
-
+## 🤝 Open to collaborate on:
 - Cloud infrastructure projects
-- DevOps automation
+- DevOps automation and CI/CD pipelines
 - Disaster recovery solutions
 - High-availability architectures
+- Healthcare technology platforms
 
-⚡ Fun fact: My aviation background gives me a unique perspective on system reliability and redundancy in cloud architectures!
+⚡ **Fun fact:** My aviation background gives me a unique perspective on system reliability and redundancy in cloud architectures - I'm not just collecting certifications, I'm actively applying this knowledge in mission-critical environments!
 
 # Links and Social Media
 
@@ -60,11 +65,25 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
   </a>
 </div>
 
-# Current Projects
+# Completed Projects
 
-- 🛠️ Project 1 - Helicopter Tour Company - Financial Tracking
-- 🚀 Project 2 - Video Resolution Resizing Application
-- 🚁 Project 3 - Helicopter Arrival and Departure Tracker
+## 🛠️ Cloud Disaster Recovery
+A comprehensive cross-region disaster recovery solution built on AWS that automatically handles failover when primary infrastructure fails. This project implements automated traffic routing using AWS Global Accelerator, CloudWatch monitoring for health checks, and SSM Automation for seamless failover orchestration. When disaster strikes, the system automatically starts backup servers in a secondary region and redirects traffic without manual intervention, ensuring zero-downtime recovery and peace of mind for critical applications.
+
+## 🚀 TechHealth Migration
+A comprehensive AWS infrastructure migration that transformed a healthcare startup's "click-and-pray" console-based infrastructure into a robust, compliant Infrastructure as Code solution. This project solved critical challenges including security group chaos, undocumented resources, and the inability to recreate environments reliably.
+
+## 🚁 Serverless Travel Contact Form
+What started as a "simple contact form" became a fully automated, AWS-powered serverless architecture that handles customer travel inquiries end-to-end. This project showcases real-world serverless patterns including automated email confirmations, data validation, and scalable infrastructure that processes hundreds of submissions for under $5/month.
+
+## 📋 TaskUp Now - Serverless Task Manager
+A fully serverless task management application that demonstrates modern cloud-native architecture principles. Built to solve the problem of losing important tasks due to browser crashes, this application leverages AWS services for automatic scaling, cost optimization, and enterprise-grade reliability. Features include AI-powered image analysis with AWS Rekognition, real-time task management, and direct S3 uploads with presigned URLs.
+
+## 🔒 CloudSecure - AI Threat Detection
+A complete AI-powered Security Operations Center built on AWS that demonstrates real threat detection capabilities for under $100. This project moves beyond compliance theater to deliver actual working security architecture with Zero Trust network design, AI-powered threat detection via GuardDuty, and real-time visualization through Grafana dashboards.
+
+## ⚙️ Ansible for Beginners
+A comprehensive infrastructure automation project that demonstrates core Ansible concepts through practical implementation. This project moves beyond tutorial-level examples to showcase real-world configuration management, featuring one Ansible control node managing two web servers with dynamic content generation, all deployed via Infrastructure as Code.
 
 # How to reach me
 
