@@ -24,9 +24,11 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
 - **Security:** Network security, IAM policies, compliance frameworks
 
 ## 🏆 Certifications:
-- AWS Solutions Architect Associate
-- AWS SysOps Administrator Associate  
-- AWS Cloud Practitioner
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/92911053-8410-404e-ab8c-3a533077684f/public_url)
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/f009c9b8-26c7-4bb9-8980-0630385d0588/public_url)
+- [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/71b6f455-c361-43b5-82ad-7bb786afcfb5/public_url)
+- [Cloud Engineer Academy Graduate](https://www.cloudengineeracademy.io/)
+- [HashiCorp Certified Terraform Associate](https://www.credly.com/badges/c6d7360d-2c5b-49cc-bf11-28df0b8cc686/public_url)
 
 ## 🤝 Open to collaborate on:
 - Cloud infrastructure projects
