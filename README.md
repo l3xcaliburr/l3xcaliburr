@@ -47,6 +47,11 @@ With a decade of experience as an EMS helicopter pilot, I bring a unique perspec
   <a href="https://www.cloudengineeracademy.io/">
     <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/academy-badge.png" width="150" height="150" alt="Cloud Engineer Academy Graduate">
   </a>
+Hashicorp Terraform Associate">
+  </a>
+  <a href="https://www.credly.com/badges/c6d7360d-2c5b-49cc-bf11-28df0b8cc686/public_url">
+    <img src="https://github.com/l3xcaliburr/l3xcaliburr/raw/main/terraform-badge.png" width="150" height="150" alt="Hashicorp Certified Terraform Associate">
+  </a>
 </div>
 
 
